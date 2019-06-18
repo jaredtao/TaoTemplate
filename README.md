@@ -1,10 +1,10 @@
-﻿- [TaoShaderToy](#TaoShaderToy)
+﻿- [TaoTemplate](#TaoTemplate)
   - [联系方式](#%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)
   - [赞助](#%E8%B5%9E%E5%8A%A9)
 
-# TaoShaderToy
+# TaoTemplate
 
-移植ShaderToy部分特效到Qml，使用ShaderEffect实现。支持安卓。
+Tao 模板工程
 
 ## 联系方式
 
