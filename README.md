@@ -6,6 +6,8 @@
 
 Tao 模板工程
 
+包含MIT License文件， clang-format文件，.gitattributes, .gitignore，以及markdown模板
+
 ## 联系方式
 
 ***
